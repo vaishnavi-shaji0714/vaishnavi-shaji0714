@@ -31,7 +31,7 @@
 <td align="center" width="130"><a href="https://discord.gg/AVezf4MjyH"><img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55"/><br/><b>Discord</b></a></td>
 <td align="center" width="130"><a href="https://vaishnavi-shaji0714.github.io/Portfolio/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55"/><br/><b>Portfolio</b></a></td>
 <td align="center" width="130"><a href="https://www.kaggle.com/vaishnavithekkekkara"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55"/><br/><b>Kaggle</b></a></td>
-<td align="center" width="130"><a href="https://github.com/vaishnavi-shaji0714/vaishnavi-shaji0714/raw/main/CV-Vaishnavi_Thekkekkara.pdf"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="55" height="55" style="display:none"/><img src="https://img.icons8.com/color/55/000000/document--v1.png" width="55" height="55"/><br/><b>Resume</b></a></td>
+<td align="center" width="130"><a href="https://github.com/vaishnavi-shaji0714/vaishnavi-shaji0714/raw/main/CV-Vaishnavi_Thekkekkara.pdf"><img src="https://img.icons8.com/color/55/000000/document--v1.png" width="55" height="55"/><br/><b>Resume</b></a></td>
 </tr>
 </table>
 </div>
@@ -47,10 +47,12 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="55" height="55"/><br/><b>OpenAI</b></td>
+<td align="center" width="130"><img src="https://www.readmecodegen.com/api/social-icon?name=openai&color=%23ffffff" alt="openai" width="55" height="55"/><br/>
+<b>OpenAI</b></td>
 <td align="center" width="130"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/><b>Gemini</b></td>
 <td align="center" width="130"><img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="55" height="55"/><br/><b>Claude</b></td>
-<td align="center" width="130"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/groq.svg" width="55" height="55" style="filter:invert(40%) sepia(90%) saturate(500%) hue-rotate(340deg)"/><br/><b>Groq</b></td>
+<td align="center" width="130"><img src="file:///C:/Users/vaish/Downloads/grok.webp" width="55" height="55"/><br/>
+<b>Groq</b></td>
 <td align="center" width="130"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="55" height="55"/><br/><b>Ollama</b></td>
 <td align="center" width="130"><img src="https://cdn.simpleicons.org/perplexity/20808D" width="55" height="55"/><br/><b>Perplexity</b></td>
 </tr>
