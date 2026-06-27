@@ -51,7 +51,7 @@
 <b>OpenAI</b></td>
 <td align="center" width="130"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/><b>Gemini</b></td>
 <td align="center" width="130"><img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="55" height="55"/><br/><b>Claude</b></td>
-<td align="center" width="130"><img src="https://icons8.com/icon/USGXKHXKl9X7/grok" width="55" height="55"/><br/>
+<td align="center" width="130"><img src="https://img.icons8.com/?size=100&id=USGXKHXKl9X7&format=png&color=FFFFFF" width="55" height="55"/><br/>
 <b>Groq</b></td>
 <td align="center" width="130"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="55" height="55"/><br/><b>Ollama</b></td>
 <td align="center" width="130"><img src="https://cdn.simpleicons.org/perplexity/20808D" width="55" height="55"/><br/><b>Perplexity</b></td>
