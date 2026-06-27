@@ -17,14 +17,6 @@
 
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-<br clear="right"/>
-
----
-
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
 ## ✦ Connect With Me
@@ -50,6 +42,21 @@
 
 ## ⚡ Tech Stack
 
+### 🤖 GenAI / LLMs
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55"/><br/><b>OpenAI</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/><b>Gemini</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="55" height="55"/><br/><b>Claude</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55"/><br/><b>Groq</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="55" height="55"/><br/><b>Ollama</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/perplexity/20808D" width="55" height="55"/><br/><b>Perplexity</b></td>
+</tr>
+</table>
+</div>
+
 ### 🌟 Programming Languages
 
 <div align="center">
@@ -63,7 +70,7 @@
 </table>
 </div>
 
-### 🤖 AI & Machine Learning
+### 🧠 AI & Machine Learning
 
 <div align="center">
 <table>
