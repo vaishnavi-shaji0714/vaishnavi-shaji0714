@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaishnavi%20Thekkerara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%7C%20Aspiring%20AI%20Engineer%20%7C%20Future%20MS%20in%20Germany&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaishnavi%20Thekkerara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
@@ -12,7 +12,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vaishnavi-shaji0714&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://visitcount.itsvg.in)
 [![Followers](https://img.shields.io/github/followers/vaishnavi-shaji0714?style=for-the-badge&color=6D28D9&labelColor=1e1e2e&label=Followers)](https://github.com/vaishnavi-shaji0714)
-[![Open to Internships](https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-6366F1?style=for-the-badge&logo=handshake&logoColor=white)](mailto:vaishnavishaji14@gmail.com)
 
 </div>
 
@@ -21,14 +20,6 @@
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-## 👩‍💻 About Me
-
-```python
-class Vaishnavi:
-    name     = "Vaishnavi Thekkerara"
-    role     = "CS Student | Aspiring AI Engineer"
-```
 
 <br clear="right"/>
 
@@ -39,12 +30,18 @@ class Vaishnavi:
 ## ✦ Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavithekkekkara/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavishaji14@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vaishhhnavi_14/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AVezf4MjyH)
-
+<table>
+<tr>
+<td align="center" width="130"><a href="https://www.linkedin.com/in/vaishnavithekkekkara/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55"/><br/><b>LinkedIn</b></a></td>
+<td align="center" width="130"><a href="https://github.com/vaishnavi-shaji0714"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/><br/><b>GitHub</b></a></td>
+<td align="center" width="130"><a href="mailto:vaishnavishaji14@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55"/><br/><b>Email</b></a></td>
+<td align="center" width="130"><a href="https://www.instagram.com/vaishhhnavi_14/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55"/><br/><b>Instagram</b></a></td>
+<td align="center" width="130"><a href="https://discord.gg/AVezf4MjyH"><img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55"/><br/><b>Discord</b></a></td>
+<td align="center" width="130"><a href="https://vaishnavi-shaji0714.github.io/Portfolio/"><img src="https://cdn.simpleicons.org/githubpages/222222" width="55" height="55"/><br/><b>Portfolio</b></a></td>
+<td align="center" width="130"><a href="https://www.kaggle.com/vaishnavithekkekkara"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55"/><br/><b>Kaggle</b></a></td>
+<td align="center" width="130"><a href="https://github.com/vaishnavi-shaji0714/vaishnavi-shaji0714/raw/main/CV-Vaishnavi_Thekkekkara.pdf"><img src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" width="55" height="55"/><br/><b>Resume</b></a></td>
+</tr>
+</table>
 </div>
 
 ---
@@ -53,61 +50,102 @@ class Vaishnavi:
 
 ## ⚡ Tech Stack
 
-### 🌟 Languages
+### 🌟 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/><br/><b>Python</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/><br/><b>C++</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><br/><b>HTML</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><br/><b>CSS</b></td>
+</tr>
+</table>
+</div>
 
-### 🤖 AI / ML / Data Science
+### 🤖 AI & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55"/><br/><b>PyTorch</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/><br/><b>TensorFlow</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/keras/D00000" width="55" height="55"/><br/><b>Keras</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" height="55"/><br/><b>Scikit-learn</b></td>
+</tr>
+</table>
+</div>
+
+### 📊 Data Science & Analytics
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/><br/><b>NumPy</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/><br/><b>Pandas</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55"/><br/><b>OpenCV</b></td>
+<td align="center" width="130"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55" height="55"/><br/><b>Matplotlib</b></td>
+</tr>
+</table>
+</div>
 
 ### 🌐 Web & App Development
 
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55"/><br/><b>Flask</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55" height="55"/><br/><b>Streamlit</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55"/><br/><b>Flutter</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="55" height="55"/><br/><b>TailwindCSS</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/vite/646CFF" width="55" height="55"/><br/><b>Vite</b></td>
+</tr>
+</table>
+</div>
 
 ### ☁️ Cloud & Infrastructure
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/><br/><b>Google Cloud</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55"/><br/><b>AWS</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55"/><br/><b>Azure</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55"/><br/><b>Firebase</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55"/><br/><b>Docker</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" height="55"/><br/><b>Kubernetes</b></td>
+</tr>
+</table>
+</div>
 
 ### 🗄 Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/><br/><b>MySQL</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55"/><br/><b>PostgreSQL</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/><br/><b>MongoDB</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55"/><br/><b>SQLite</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" width="55" height="55"/><br/><b>DynamoDB</b></td>
+</tr>
+</table>
+</div>
 
-### 🛠 Tools & Design
+### ⚙️ Development Tools
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/><br/><b>VS Code</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55"/><br/><b>Jupyter</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/><br/><b>Git</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/><br/><b>GitHub</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55"/><br/><b>Figma</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/arduino/00979D" width="55" height="55"/><br/><b>Arduino</b></td>
+</tr>
+</table>
+</div>
 
 ---
 
