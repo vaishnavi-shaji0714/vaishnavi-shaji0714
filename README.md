@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaishnavi%20Thekkerara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaishnavi%20Thekkekkara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
